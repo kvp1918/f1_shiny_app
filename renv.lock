@@ -107,6 +107,18 @@
       "Repository": "CRAN",
       "Hash": "9b1e2c1f75b349e3ffa7e9c69eec0c52"
     },
+    "bs4Dash": {
+      "Package": "bs4Dash",
+      "Version": "2.0.3",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "bs4Dash",
+      "RemoteUsername": "RinteRface",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "cb58ab49f53e5d71244bfbaf2e32743fa976af26",
+      "Hash": "deaf0e9e614bb4ab7fc546c420c2a282"
+    },
     "bslib": {
       "Package": "bslib",
       "Version": "0.3.1",
@@ -176,6 +188,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "e75525c55c70e5f4f78c9960a4b402e9"
+    },
+    "crosstalk": {
+      "Package": "crosstalk",
+      "Version": "1.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "2b06f9e415a62b6762e4b8098d2aecbc"
     },
     "curl": {
       "Package": "curl",
@@ -436,6 +455,13 @@
       "Repository": "CRAN",
       "Hash": "fbd9285028b0263d76d18c95ae51a53d"
     },
+    "lazyeval": {
+      "Package": "lazyeval",
+      "Version": "0.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "d908914ae53b04d4c0c0fd72ecc35370"
+    },
     "lifecycle": {
       "Package": "lifecycle",
       "Version": "1.0.1",
@@ -499,6 +525,13 @@
       "Repository": "CRAN",
       "Hash": "5406fd37ef0bf9b88c8a4f264d6ec220"
     },
+    "packrat": {
+      "Package": "packrat",
+      "Version": "0.7.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "95e8c3825efcaad09411799da92c0af9"
+    },
     "pillar": {
       "Package": "pillar",
       "Version": "1.6.4",
@@ -512,6 +545,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "01f28d4278f15c76cddbea05899c5d6f"
+    },
+    "plotly": {
+      "Package": "plotly",
+      "Version": "4.10.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "fbb11e44d057996ca5fe40d959cacfb0"
     },
     "prettyunits": {
       "Package": "prettyunits",
@@ -631,6 +671,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "320017b52d05a943981272b295750388"
+    },
+    "rsconnect": {
+      "Package": "rsconnect",
+      "Version": "0.8.24",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "5e21fd77eb844fa1ff1d23cb04e1d753"
     },
     "rstudioapi": {
       "Package": "rstudioapi",

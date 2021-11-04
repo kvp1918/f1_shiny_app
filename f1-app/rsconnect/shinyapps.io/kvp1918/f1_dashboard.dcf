@@ -1,0 +1,11 @@
+name: f1_dashboard
+title: F1 Dashboard
+username:
+account: kvp1918
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5039796
+bundleId: 5210499
+url: https://kvp1918.shinyapps.io/f1_dashboard/
+when: 1635988399.70168
+lastSyncTime: 1635988399.70169

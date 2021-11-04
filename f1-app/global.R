@@ -5,14 +5,15 @@ library(shinybusy)
 library(lubridate)
 library(reactable)
 library(plotly)
+library(rsconnect)
 #library(tidytuesdayR)
 
 ## Load Data
 #load("dat.Rda")
-load("../drivers.Rda")
-load("../results.Rda")
-load("../lap_times.Rda")
-load("../constructor_standings.Rda")
+load("./data/drivers.Rda")
+load("./data/results.Rda")
+load("./data/lap_times.Rda")
+load("./data/constructor_standings.Rda")
 # load("pit_stops.Rda")
 
 
